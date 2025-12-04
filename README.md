@@ -58,7 +58,3 @@ A complete analytics project involving pressure effect analysis, data visualizat
 📩 **Email:** msabeer208@gmail.com
 
 ---
-
-## ⭐ GitHub Stats
-
-![Safeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safeer-7&show_icons=true&theme=tokyonight)
